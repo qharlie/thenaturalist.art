@@ -1,2 +1,4 @@
 # thenaturalist.art
-Oriinals Only
+
+![Field Of Oz](https://thenaturalist.art/wp-content/uploads/2024/07/fieldofoz.jpg)
+
